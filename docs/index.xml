@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>c0ravx</title>
+    <link>https://c0ravx.github.io/</link>
+    <description>Recent content on c0ravx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>c0ravx - 2022</copyright>
+    <lastBuildDate>Mon, 25 Jul 2022 20:41:58 -0400</lastBuildDate>
+    
+	<atom:link href="https://c0ravx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://c0ravx.github.io/about/</link>
+      <pubDate>Mon, 25 Jul 2022 20:41:58 -0400</pubDate>
+      
+      <guid>https://c0ravx.github.io/about/</guid>
+      <description>I am a malware analyst and a reverse engineer. This is all that matters.
+Any feedback is appreciated.</description>
+    </item>
+    
+  </channel>
+</rss>
